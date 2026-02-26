@@ -14,6 +14,18 @@ A ce stade du projet, voici la liste des fonctionnalités que le projet impléme
 - Les recommandations basées sur les films
 - Evaluation des models avec RMSE et MAE
 
+## Structure du projet
+
+```plaintext
+moteur-recommandation/
+├── data/             # datasets
+├── notebooks/        # exploration et visualisation
+├── src/              # code principal
+├── tests/            # tests unitaires
+├── requirements.txt  # librairies Python
+└── README.md         # ce fichier`
+```
+
 ## Installation
 
 ```bash
@@ -33,6 +45,10 @@ venv/Scripts/activate # Windows
 pip install -r requirements.txt
 
 ```
+
+## Données
+
+[Source des données](https://www.kaggle.com/datasets/aigamer/movie-lens-dataset)
 
 ## Auteurs
 
