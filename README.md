@@ -36,6 +36,6 @@ pip install -r requirements.txt
 
 ## Auteurs
 
-[Abacuc AGBEDJE](https://githubs.com/abacuc1702)
+[Abacuc AGBEDJE](https://github.com/abacuc1702)
 
 [Noréane GNAMY](https://github.com/noreane)
